@@ -305,6 +305,10 @@ MIT License — feel free to use and modify for farmer welfare projects.
 > *"The right price for hardworking hands"*
 
 ---
+## Team members
+> Kanishka 
+> Saranya
+> Gopika
 
 <p align="center">
   Made with Flutter 🐦 • Powered by Groq AI ⚡ • Data from Government of India 🇮🇳
