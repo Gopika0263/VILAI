@@ -306,9 +306,9 @@ MIT License — feel free to use and modify for farmer welfare projects.
 
 ---
 ## Team members
-> Kanishka 
-> Saranya
-> Gopika
+- Kanishka 
+- Saranya
+- Gopika
 
 <p align="center">
   Made with Flutter 🐦 • Powered by Groq AI ⚡ • Data from Government of India 🇮🇳
